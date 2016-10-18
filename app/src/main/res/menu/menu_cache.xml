@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ev.recyclerviewdemo.MainActivity">
+
+    <item
+        android:id="@+id/clearCahce"
+        android:orderInCategory="100"
+        android:title="清空离线资源"
+        app:showAsAction="never" />
+
+</menu>
